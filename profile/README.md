@@ -1,4 +1,3 @@
----
 # 🌟 Ānanda Āropa: The Foundation of Blissful Android x86 Experiences 🌟
 
 <p align="center">
